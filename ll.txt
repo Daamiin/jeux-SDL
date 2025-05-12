@@ -1,0 +1,1 @@
+When switching back to windowed mode, the window position is not properly reset and the mouse cannot pass the game window borders
